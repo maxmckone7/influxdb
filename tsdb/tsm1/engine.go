@@ -24,6 +24,7 @@ import (
 	"github.com/influxdata/influxdb/pkg/metrics"
 	"github.com/influxdata/influxdb/query"
 	"github.com/influxdata/influxdb/tsdb"
+	"github.com/influxdata/influxdb/tsdb/cursors"
 	"github.com/influxdata/influxdb/tsdb/seriesfile"
 	"github.com/influxdata/influxdb/tsdb/tsi1"
 	"github.com/influxdata/influxql"
