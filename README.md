@@ -255,3 +255,5 @@ CI also runs end-to-end tests. These test the integration between the influx ser
 
 - Start the server in "testing mode" by running `make run-e2e`.
 - Run the tests with `make e2e`.
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmaxmckone7%2Finfluxdb.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmaxmckone7%2Finfluxdb?ref=badge_large)
